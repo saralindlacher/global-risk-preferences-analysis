@@ -163,4 +163,4 @@ R · tidyverse · sandwich / lmtest (robust inference) · boot · stargazer · g
 
 ## Author
 
-**Sara Lindlacher Naveira**, MSc Financial Risk Management, ICADE – Universidad Pontificia Comillas - www.linkedin.com/in/sara-lindlacher-naveira
+**Sara Lindlacher Naveira**, MSc Financial Risk Management, ICADE – Universidad Pontificia Comillas - [LinkedIn](https://www.linkedin.com/in/sara-lindlacher-naveira)
